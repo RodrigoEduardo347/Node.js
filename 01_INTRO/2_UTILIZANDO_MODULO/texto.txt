@@ -1,0 +1,8 @@
+Most of the Cmder functionality are documented in the readme file on GitHub. We have extented help available in Cmder Wiki, also regarding integration.
+
+If you're having trouble with anything, please have a look at the GitHub issues, or create a new one.
+We'll be happy to help, but you might have a better chance to find solutions on the pages of the upstream projects. Those are:
+
+Console emulator ~ Conemu
+Cmd.exe enhancements ~ clink
+Unix tools on windows ~ git for windows
