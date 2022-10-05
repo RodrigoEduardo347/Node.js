@@ -6,7 +6,7 @@ const server = http.createServer((req, res)=>{
     const name = urlInfor.query.name
 
     res.statusCode = 200
-    res.setHeader('Contenty-Typs', 'text/html')
+    res.setHeader('Contenty-Type', 'text/html')
 
     if(!name) {
         res.end(
