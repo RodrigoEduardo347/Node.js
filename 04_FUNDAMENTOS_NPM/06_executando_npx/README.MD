@@ -1,0 +1,1 @@
+Alguns módulos são executáveis, por exemplo, podemos usar <code>npx cowsay -d "Mensagem"</code> para rodar uns equipamentos.

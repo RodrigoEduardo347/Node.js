@@ -1,0 +1,12 @@
+{
+  "name": "01_criando_projeto",
+  "version": "1.0.0",
+  "description": "Podemos usar o comando <code>npm init -y</code> para responder yes para todas as questões e inicializar o npm mais rápido.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
