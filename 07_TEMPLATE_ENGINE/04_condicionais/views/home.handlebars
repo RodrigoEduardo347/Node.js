@@ -1,0 +1,13 @@
+<h1>Usando views no handlebars</h1>
+<p>
+    Olá {{user.name}} {{user.surname}}! É verdade que você tem {{user.age}} anos?
+</p>
+<p>
+    {{message}}
+</p>
+
+{{#if auth}}
+    <p>
+        Opa! Parece que você é um usuário premium. Clique <a href="/dashboard">aqui</a> para acessar a área premium.
+    </p>
+{{/if}}
